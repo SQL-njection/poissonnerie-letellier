@@ -1,2 +1,2 @@
 # poissonnerie-letellier
-application web pour la poissonnerie Letellier; commande en ligne, livraison, traçabilité, conseils de préparation
+Application web pour la poissonnerie Letellier; commande en ligne, livraison, traçabilité, conseils de préparation
